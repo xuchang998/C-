@@ -1,0 +1,139 @@
+{
+    "controllers": [
+        {
+            "id": "6",
+            "interface": "192.168.10.2",
+            "receiverPort": "61440",
+            "registers": {
+                "ADC Configuration": "0",
+                "Device ID": "0",
+                "Mode Settings": "0",
+                "Speed": "0",
+                "System Gain Calibration 0": "0",
+                "System Gain Calibration 1": "0",
+                "System Offset Calibration 0": "0",
+                "System Offset Calibration 1": "0",
+                "System Offset Calibration 2": "0"
+            }
+        },
+        {
+            "bufferSize": "1200",
+            "id": "7",
+            "interface": "192.168.10.2",
+            "receiverPort": "61440",
+            "registers": {
+                "ADC Configuration": "0",
+                "Device ID": "0",
+                "Mode Settings": "0",
+                "Speed": "1200",
+                "System Gain Calibration 0": "0",
+                "System Gain Calibration 1": "0",
+                "System Offset Calibration 0": "0",
+                "System Offset Calibration 1": "0",
+                "System Offset Calibration 2": "0"
+            }
+        },
+        {
+            "bufferSize": "1200",
+            "id": "9",
+            "interface": "192.168.10.2",
+            "receiverPort": "61440",
+            "registers": {
+                "ADC Configuration": "0",
+                "Device ID": "0",
+                "Mode Settings": "0",
+                "Speed": "1200",
+                "System Gain Calibration 0": "0",
+                "System Gain Calibration 1": "0",
+                "System Offset Calibration 0": "0",
+                "System Offset Calibration 1": "0",
+                "System Offset Calibration 2": "0"
+            }
+        },
+        {
+            "bufferSize": "1200",
+            "id": "18",
+            "interface": "192.168.10.2",
+            "receiverPort": "61440",
+            "registers": {
+                "ADC Configuration": "0",
+                "Device ID": "0",
+                "Mode Settings": "0",
+                "Speed": "1200",
+                "System Gain Calibration 0": "0",
+                "System Gain Calibration 1": "0",
+                "System Offset Calibration 0": "0",
+                "System Offset Calibration 1": "0",
+                "System Offset Calibration 2": "0"
+            }
+        },
+        {
+            "bufferSize": "1",
+            "id": "20",
+            "interface": "192.168.10.10",
+            "receiverPort": "61440",
+            "registers": {
+                "ADC Configuration": "0",
+                "Device ID": "0",
+                "Mode Settings": "0",
+                "Speed": "0",
+                "System Gain Calibration 0": "0",
+                "System Gain Calibration 1": "0",
+                "System Offset Calibration 0": "0",
+                "System Offset Calibration 1": "0",
+                "System Offset Calibration 2": "0"
+            }
+        },
+        {
+            "bufferSize": "1200",
+            "id": "22",
+            "interface": "192.168.10.10",
+            "receiverPort": "61440",
+            "registers": {
+                "ADC Configuration": "0",
+                "Device ID": "0",
+                "Mode Settings": "0",
+                "Speed": "0",
+                "System Gain Calibration 0": "0",
+                "System Gain Calibration 1": "0",
+                "System Offset Calibration 0": "0",
+                "System Offset Calibration 1": "0",
+                "System Offset Calibration 2": "0"
+            }
+        },
+        {
+            "bufferSize": "1800",
+            "id": "24",
+            "interface": "192.168.10.2",
+            "receiverPort": "61440",
+            "registers": {
+                "ADC Configuration": "0",
+                "Device ID": "0",
+                "Mode Settings": "0",
+                "Speed": "0",
+                "System Gain Calibration 0": "0",
+                "System Gain Calibration 1": "0",
+                "System Offset Calibration 0": "0",
+                "System Offset Calibration 1": "0",
+                "System Offset Calibration 2": "0"
+            }
+        },
+        {
+            "bufferSize": "360",
+            "id": "25",
+            "interface": "192.168.10.2",
+            "receiverPort": "61440",
+            "registers": {
+                "ADC Configuration": "0",
+                "Device ID": "0",
+                "Mode Settings": "0",
+                "Speed": "0",
+                "System Gain Calibration 0": "0",
+                "System Gain Calibration 1": "0",
+                "System Offset Calibration 0": "0",
+                "System Offset Calibration 1": "0",
+                "System Offset Calibration 2": "0"
+            }
+        }
+    ]
+}

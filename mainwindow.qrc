@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>icon/add.png</file>
+        <file>icon/configuration.png</file>
+        <file>icon/controller.png</file>
+        <file>icon/delete.png</file>
+        <file>icon/modify.png</file>
+        <file>icon/connect.png</file>
+        <file>icon/disconnect.png</file>
+        <file>icon/register.png</file>
+        <file>icon/channel.png</file>
+        <file>icon/graph.png</file>
+    </qresource>
+    <qresource prefix="/en"/>
+    <qresource prefix="/zh"/>
+    <qresource prefix="/"/>
+</RCC>
